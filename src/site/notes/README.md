@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/readme/","title":"个人情色资料博物馆导读","tags":["情色","NSFW","BDSM","知识整理","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/readme/","title":"个人情色资料博物馆导读","tags":["情色","NSFW","BDSM","知识整理","gardenEntry"]}
 ---
 
 
@@ -10,7 +10,7 @@
 ## 导航
 
 - [BDSM区块](BDSM区块.md)
-- [性相关技巧经验集](nsfw/性相关技巧经验集.md)
+- [性相关技巧经验集](性相关技巧经验集.md)
 - [荡妇羞辱语料库](荡妇羞辱语料库)
 
 ## 日志
