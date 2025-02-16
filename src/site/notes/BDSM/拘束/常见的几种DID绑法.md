@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/BDSM/拘束/常见的几种DID绑法/","title":"常见的几种 DID 绑法（绑架）","tags":["DID","绑架","玩法"]}
+{"dg-publish":true,"permalink":"/BDSM/拘束/常见的几种DID绑法/","title":"常见的几种 DID 绑法（绑架）","tags":["DID","绑架","玩法"],"created":"2025-02-15T19:53:35.000+08:00","updated":"2025-02-16T16:16:56.448+08:00"}
 ---
 
 
