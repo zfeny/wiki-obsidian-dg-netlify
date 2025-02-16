@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bdsm/","title":"BDSM 区块导读","tags":["nsfw","sm"]}
+{"dg-publish":true,"permalink":"/BDSM区块/","title":"BDSM 区块导读","tags":["nsfw","sm"]}
 ---
 
 

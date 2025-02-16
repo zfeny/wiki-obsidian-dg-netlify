@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//spa-7/","title":"【最快速把 SPA 技师变成长期饭票的秘诀】7 年一手经验","tags":["约炮","嫖娼","SPA"]}
+{"dg-publish":true,"permalink":"/经验池/【最快速把SPA技师变成长期饭票的秘诀】7年一手经验/","title":"【最快速把 SPA 技师变成长期饭票的秘诀】7 年一手经验","tags":["约炮","嫖娼","SPA"]}
 ---
 
 

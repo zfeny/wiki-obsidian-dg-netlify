@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bdsm//x-bdsm/","title":"强制拘禁 X 插入连乘交叠出最高 BDSM 视觉","tags":["BDSM"," 绳缚"," 强制拘禁"]}
+{"dg-publish":true,"permalink":"/BDSM/拘束/强制拘禁 X 插入连乘交叠出最高 BDSM 视觉/","title":"强制拘禁 X 插入连乘交叠出最高 BDSM 视觉","tags":["BDSM"," 绳缚"," 强制拘禁"]}
 ---
 
 
