@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/readme/","title":"个人情色资料博物馆导读","tags":["情色","NSFW","BDSM","知识整理","gardenEntry"]}
+{"dg-publish":true,"permalink":"/readme/","title":"个人情色资料博物馆导读","tags":["情色","NSFW","BDSM","知识整理","gardenEntry","gardenEntry"]}
 ---
 
 
